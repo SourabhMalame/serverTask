@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# Log files
+*.log
+
+# Coverage reports
+coverage/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Temporary files
+temp/
+tmp/
